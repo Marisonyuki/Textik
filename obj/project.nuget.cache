@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeVrBaYb9XdU3IdV+W2SrdxAF+dCNNynsDBzNXX659o29LgpmsHhpY6Nl6sYQiWDdwCS5/+bvVl+PNbsEJSdFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Doratorio\\source\\repos\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doratorio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
